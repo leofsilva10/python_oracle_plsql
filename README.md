@@ -12,4 +12,3 @@ Stored Procedure:
 
 ![image](https://github.com/leofsilva10/python_oracle_plsql/assets/114931860/a7f5878c-ce52-40f4-9758-83d4ce0917c8)
 
-
